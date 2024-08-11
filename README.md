@@ -1,1 +1,1 @@
-# monsters-of-creation
+# DECAY OF HUMANITY
