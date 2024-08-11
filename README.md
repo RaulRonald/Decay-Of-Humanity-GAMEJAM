@@ -1,2 +1,1 @@
-# Descay-Of-Humanity-GAMEJAM
- GAMEJAM
+# monsters-of-creation

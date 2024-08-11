@@ -1,0 +1,90 @@
+﻿/* BACKGROUND */
+body {
+    background-color: #7F1400;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.invisible {
+    display: none;
+}
+/*parte superior*/
+.alltop {
+    background-color: #008049;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+    margin-bottom: 0;
+    position: relative;
+    z-index: 2;
+}
+
+.headboard {
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items: center;
+    width: auto;
+}
+
+    .profile, .headboard h1, .socialmidias {
+        float: left;
+        margin-inline: 1%;
+    }
+
+    .headboard h1 {
+        width: auto;
+        margin-left: 2.5%;
+        font-family: Impact;
+    }
+
+.profile {
+    margin-left: 5%;
+}
+
+    .profile img {
+        width: auto;
+        height: auto;
+    }
+
+.socialmidias {
+    margin-left: auto;
+    width: auto;
+    display: flex;
+}
+
+    .socialmidias ul li {
+        list-style-type: none;
+        float: left;
+        width: auto;
+        margin-inline: 10px;
+    }
+
+        .socialmidias ul li img {
+            width: 50px;
+            height: 50px;
+        }
+/*main*/
+main {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -30px;
+    padding-top: 30px;
+    position: relative;
+    z-index: 1;
+    background-color: #4778D4;
+    color: white;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+.game-container {
+    width: auto;
+}
+
+
